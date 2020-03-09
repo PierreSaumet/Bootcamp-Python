@@ -21,7 +21,7 @@ import sys
 def display_txt(string):
     """This function displays the text"""
     str1 = "Sum:\t\t{}\nDifference:\t{}\nProduct:\t{}" \
-            "\nQuotient:\t{}\nRemainder:\t{}"
+        "\nQuotient:\t{}\nRemainder:\t{}"
     print(str1.format("1", "2", "3", "4", "5"))
 
 
