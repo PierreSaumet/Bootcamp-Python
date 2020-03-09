@@ -19,12 +19,14 @@ import sys
 
 
 def display_txt(string):
+    """This function displays the text"""
     str1 = "Sum:\t\t{}\nDifference:\t{}\nProduct:\t{}" \
             "\nQuotient:\t{}\nRemainder:\t{}"
     print(str1.format("1", "2", "3", "4", "5"))
 
 
 def ft_full(num1, num2):
+    """This function makes different calculs"""
     summary = int(num1) + int(num2)
     diff = int(num1) - int(num2)
     product = int(num1) * int(num2)
