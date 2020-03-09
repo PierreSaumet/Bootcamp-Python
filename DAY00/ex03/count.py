@@ -12,7 +12,7 @@
 """
     This is a program created with Python3.
     It respects the rules of PEP 8.
-    Everythings is in English.
+    Everything is in English.
     Python rocks.
 """
 import sys
